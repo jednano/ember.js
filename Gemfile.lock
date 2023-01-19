@@ -57,7 +57,7 @@ GEM
     multi_json (1.7.7)
     nokogiri (1.5.10)
     posix-spawn (0.3.6)
-    rack (1.5.2)
+    rack (3.0.4.1)
     rake (10.0.4)
     rake-pipeline-web-filters (0.7.0)
       rack
